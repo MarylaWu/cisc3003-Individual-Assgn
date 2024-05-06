@@ -57,4 +57,4 @@ Feel free to fork this project and contribute by submitting a pull request. Plea
 For more information, reach out to Li Shitian at [cc02957@umac.mo](mailto:cc02957@umac.mo).
 
 #### Project Report
-For a detailed project report and documentation, please refer to the [IndividualAssgn.zip](IndividualAssgn.zip) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
+For a detailed project report and documentation, please refer to the [IndividualAssgn .zip](IndividualAssgn .zip) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
