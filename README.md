@@ -2,7 +2,7 @@
 ### README.md for CISC3003-Individual-Project
 
 #### Project Overview
-This repository contains the project files for a Simple Shopping Cart System developed as part of the CISC3003 Web Programming course at the University of Macau, under the supervision of Prof. Kam H. Vat. The project is designed by Li Shitian and aims to provide a fully functional web-based shopping cart system for managing products, orders, and user interactions.
+This repository contains the project files for a Simple Shopping Cart System developed as part of the CISC3003 Web Programming course at the University of Macau, under the supervision of Prof. Kam H. Vat. The project is designed by Wu Xinrui and aims to provide a fully functional web-based shopping cart system for managing products, orders, and user interactions.
 
 #### Introduction
 The Simple Shopping Cart System is built using HTML, CSS, JavaScript, PHP PDO, and a MySQL database. It features responsive design and includes functionalities for Product CRUD (Create, Read, Update, Delete), Order CRUD, and Shopping Cart CRUD operations.
@@ -25,7 +25,7 @@ This project includes several key functionalities:
 #### Installation and Setup
 1. **Clone the repository:**
    ```
-   git clone https://github.com/lee10lele/CISC3003-Individual-Project.git
+   git clone https://github.com/MarylaWu/cisc3003-Individual-Assgn.git
    ```
 2. **Set up the database:**
    - Import the provided SQL file into your MySQL server.
@@ -49,15 +49,12 @@ Included in the repository are screenshots demonstrating the functionality:
 #### Contributions
 Feel free to fork this project and contribute by submitting a pull request. Please ensure you update tests as appropriate.
 
-#### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 #### Acknowledgments
 - Prof. Kam H. Vat, for providing guidance throughout the project.
 - Fellow students and contributors who have offered insights and feedback.
 
 #### Contact Information
-For more information, reach out to Li Shitian at [dc12689@umac.mo](mailto:dc12689@umac.mo).
+For more information, reach out to Li Shitian at [cc02957@umac.mo](mailto:cc02957@umac.mo).
 
 #### Project Report
-For a detailed project report and documentation, please refer to the [Individual_副本.zip](Individual_副本.zip) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
+For a detailed project report and documentation, please refer to the [IndividualAssgn.zip](IndividualAssgn.zip) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
